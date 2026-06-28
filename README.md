@@ -13,6 +13,8 @@ You will also be able to customize your games in a lot of ways in the options me
 This is my first game, don't hesitate to give feedback !
 https://matthjass.itch.io/scralgebra
 
+<img width="1852" height="948" alt="kPLPkw" src="https://github.com/user-attachments/assets/8ffb4f2b-12ac-4550-b43e-2df82aa80837" />
+
 
 ## How to Build our Project
 
